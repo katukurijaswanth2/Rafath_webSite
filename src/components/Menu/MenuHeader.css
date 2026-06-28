@@ -1,0 +1,30 @@
+.menu-header {
+  background: #fff;
+  border-bottom: 1px solid #f0f0f0;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.menu-header__title-block {
+  text-align: center;
+  padding: 18px 0 12px;
+}
+
+.menu-header__eyebrow {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 4px;
+  color: #9ca3af;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+
+.menu-header__title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 800;
+  color: #111827;
+  letter-spacing: -0.5px;
+}

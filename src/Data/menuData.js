@@ -57,7 +57,7 @@ const menuData = [
         type: "Veg",
         description:
           "South Indian style rice tempered with lemon, mustard seeds and curry leaves.",
-        image: "/images/main-course/lemon-rice.jpg",
+        image: MainCourse,
       },
       {
         id: 108,

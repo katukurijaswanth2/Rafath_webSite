@@ -1,0 +1,6 @@
+MenuCard          ← root, holds state, imports menuData
+├── MenuHeader    ← sticky top bar with title
+│   └── CategoryTabs   ← scrollable filter tabs
+└── CategorySection    ← one section per category
+    └── MenuItemCard   ← individual dish card
+        └── TypeBadge  ← Veg / Non-Veg / Egg badge
