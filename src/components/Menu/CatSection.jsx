@@ -1,4 +1,4 @@
-import MenuItemCard from "./MenuItemCard";
+import MenuItemCard from "./MenuItemCard.jsx";
 import "./CategorySection.css";
 
 export default function CatSection({ category }) {

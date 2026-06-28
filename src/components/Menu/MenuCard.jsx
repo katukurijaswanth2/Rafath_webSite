@@ -1,7 +1,7 @@
 import { useState } from "react";
 import menuData from "../../Data/menuData";
-import MenuHeader from "./MenuHeader";
-import CategorySection from "./CatSection";
+import MenuHeader from "./MenuHeader.jsx";
+import CategorySection from "./CatSection.jsx";
 import "./MenuCard.css";
 
 export default function MenuCard() {

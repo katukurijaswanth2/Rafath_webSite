@@ -1,5 +1,5 @@
 import { useState } from "react";
-import TypeBadge from "./TypeBadge";
+import TypeBadge from "./Typebadge.jsx";
 import "./MenuItemCard.css";
 
 const BESTSELLER_IDS = new Set([108, 118, 202, 306, 508]);

@@ -1,4 +1,4 @@
-import CategoryTabs from "./Categorytabs";
+import CategoryTabs from "./Categorytabs.jsx";
 import "./MenuHeader.css";
 
 export default function MenuHeader({ tabs, activeCategory, onSelect }) {
